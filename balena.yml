@@ -42,12 +42,12 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/balenalabs/uk-train-departure-display'
+      url: 'https://github.com/chrisys/train-departure-display'
   logo:
     type: blob.asset
     data:
       url: >-
-        https://raw.githubusercontent.com/balenalabs/uk-train-departure-display/master/assets/logo.png
+        https://raw.githubusercontent.com/chrisys/train-departure-display/master/assets/logo.png
 data:
   defaultDeviceType: raspberry-pi
   supportedDeviceTypes:
@@ -69,5 +69,9 @@ data:
     - screen1Platform:
     - screen2Platform:
     - individualStationDepartureTime: False
-version: 0.4.0
+    - showDepartureNumbers: False
+    - firstDepartureBold: True
+    - targetFPS: 70
+    - fpsTime: 10
+version: 0.5.1
 

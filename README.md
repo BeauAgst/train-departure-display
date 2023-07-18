@@ -15,6 +15,8 @@
 
 **Check out [the documentation](/docs/01-getting-started.md) for full hardware/software requirements and complete build guide.**
 
+**A few kits are available! [See here for details](https://github.com/chrisys/train-departure-display/issues/94)**
+
 - [Getting Started](/docs/01-getting-started.md)
 - [Connecting the display to the Pi](/docs/02-connecting-the-display-to-the-pi.md)
 - [Assembling the Case](/docs/03-assembling-the-case.md)
@@ -27,3 +29,5 @@ A big thanks to [Chris Hutchinson](https://github.com/chrishutchinson/) who orig
 The fonts used were painstakingly put together by `DanielHartUK` and can be found on GitHub at https://github.com/DanielHartUK/Dot-Matrix-Typeface - A huge thanks for making that resource available!
 
 Thanks to [@jajasilver](https://github.com/jajsilver/UK-Train-Departure-Display-NRE) and [@MatthewAscough](https://github.com/MatthewAscough/UK-Train-Departure-Display-NRE) for forming the basis of the OpenLDBWS implementation.
+
+Thanks to [@cr3ative](https://github.com/cr3ative) and [@CalamityJames](https://github.com/CalamityJames) for the huge performance improvements and clean up in v0.5.0.
